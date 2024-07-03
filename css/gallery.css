@@ -57,7 +57,6 @@ button{
 .topbarlogo h2, .clonetopbarlogo h2{
   font-size:25px;
   line-height: 5px;
-  letter-spacing: 5px;
   font-weight:lighter;
   transform:translateY(-5px);
 }
