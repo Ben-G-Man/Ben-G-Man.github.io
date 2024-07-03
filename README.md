@@ -1,4 +1,5 @@
 # Face Painting Website Project
+
 I created this simple face painting website during 2020 for a friend to upskill in HTML and CSS.
 The site has had many of its images stripped and references to the origonal website owner removed for privacy reasons.
 
